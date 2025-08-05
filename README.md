@@ -13,15 +13,18 @@ Dependencies
 
 Example usage
 --------------
-### Client
-```
-TODO
-```
 
 ### Server
 ```
-TODO
+python ssmp_server.py
 ```
+
+### Client
+```
+python ssmp_client.py
+```
+
+Dedault ip:port is 127.0.0.1:6380 
 
 
 Notes
